@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+.fondo {
+    width: 100%;
+    height: 800px;
+    background-color: cadetblue;
+    padding: 20px;
+}
+h1{
+    width: 40vw;
+    background-color: crimson;
+    text-align: center;
+}
+.text{
+    width: 80vw;
+    height: 50vh;
+    background-color: coral;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    padding: 30px;
+}

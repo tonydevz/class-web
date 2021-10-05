@@ -1,0 +1,2 @@
+https://developer.mozilla.org/es/docs/Web/CSS/Pseudoelementos
+https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes

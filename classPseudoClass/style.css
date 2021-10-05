@@ -1,0 +1,21 @@
+.main-nav {
+  margin-top: 10px;
+  list-style: none;
+  padding-left: 0;
+  background-color: Yellow;
+}
+.main-nav_iten {
+  display: inline-block;
+}
+.main-nav_iten a {
+  color: black;
+  padding: 5px;
+  border-radius: 2px;
+  text-decoration: none;
+}
+.main-nav_iten a:hover {
+  color: blue;
+}
+.main-nav_iten a::after {
+  content: " | ";
+}

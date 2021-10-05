@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.fondo {
+    width: 100vw;
+    height: 100vh;
+    background-color: darkorange;
+
+}
+.father {
+    width: 40vw;
+    height: 59vh;
+    background-color: black;
+    border-radius: 10px;
+    position: relative;
+    top: 20vh;
+    left: 30vw;
+    
+} 
+
+h1 {
+    width: 20vw;
+    background-color: blue;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 2rem;
+    padding: 3px;
+    position: relative;
+    top: -3%;
+    left: 26%;
+}
+
+.conte {
+    color: cornsilk;
+    font-size: 1.5rem;
+    padding: 5px;
+    text-align: justify;
+    position: relative;
+    top: 30%;
+}
+
